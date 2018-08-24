@@ -1,0 +1,6 @@
+listening:
+    host: localhost
+    port: 8080
+addons: [
+    'php_addon','html_addon'
+]
